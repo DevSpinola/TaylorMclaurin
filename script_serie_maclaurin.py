@@ -21,10 +21,11 @@ elif penultimo == 3 or penultimo == 6:
     precisao_desejada = 1e-6
 else:
     precisao_desejada = 1e-5
-    
+
 
 # Definição do valor de x:
 x = (ultimo+1)/10
+
 
 
 # O script chama a função "funcao_cosseno_maclaurin" e recupera os valores das
