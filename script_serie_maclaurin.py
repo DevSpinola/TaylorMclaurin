@@ -21,10 +21,12 @@ elif penultimo == 3 or penultimo == 6:
     precisao_desejada = 1e-6
 else:
     precisao_desejada = 1e-5
-
+# precisao_desejada = 1e-3
 
 # Definição do valor de x:
 x = (ultimo+1)/10
+# x= ultimo/100
+
 
 
 
